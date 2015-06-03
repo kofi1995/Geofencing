@@ -6,11 +6,11 @@ Use your local node package manager (npm)
 Open command terminal, navigate to the folder and enter command:
 
 npm install
-
+```
 Make sure you have ionic installed
 
 For testing in browser
-
+```
 Enter code in terminal:
 ionic serve
 ```
@@ -31,9 +31,9 @@ ionic run ios
 ```
 
 NB: In linux or mac, sometimes the commands will not work until you preceed them with the `sudo` command.
-```
-##Platforms
 
+##Platforms
+```
 Works on both iOS and Android
 
 ```
